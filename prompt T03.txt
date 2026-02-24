@@ -1,0 +1,24 @@
+Promt Gemini
+1. saya mau buat sebuah program dalam bahasa java terkait sebuah 
+sistem yang dapat mendukung operasional sehari-hari di Laundry Sebuah Kampus Berasrama bernama Kampul IT DEL nah Dalam sisitem ini masing masing mahasiswa memiliki Laundry Bag yang terdiri dari 2 Warna yaitu Hijau dan Merah
+Hijau untuk Pria dan Merah untuk wanita Dan pada asrama DEL terdapat 7 asrama yaitu 4 asrama Putri dan 3 asrama Putra
+Putra akan me Laundry Pada Jumat dan Putri akan Melaundry Pada Hari Selasa 
+Masing masing laundry bag memiliki list nya jadi jika laundry bag tidak di list maka tidak akan di laundry dan masing masing laundry bag mengharusnkan ada plastik di dalam laundry bagnya jika tidak maka tidak akan di laundry dan ada ketentuan laundry tidak boleh lewat dari 7 kg jika lewat maka tidak akan di laundry buatlah sebuah program untuk menentukan apakah laundry itu layak untuk di laundry dan tidak dengan contoh urutan inputan
+1. Gender
+2. Hari Di susunnya
+3.  Ada  atau Tidak nya list Laundry
+4.  Ada atau Tidak nya Plastik Laundry 
+5.  Berapa Kg
+
+Buatlah sebuah program untuk menentukan seluruh bagian tersebut 
+jika salah satu saja seperti list tidak ada maka Gagal Laundry 
+Contoh inputan
+1. Laki - laki
+2. Jumat
+3. Ada
+4. Ada
+5. 5
+Output
+Sukses Laundry
+
+

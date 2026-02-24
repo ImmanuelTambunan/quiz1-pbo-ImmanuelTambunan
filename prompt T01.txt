@@ -1,0 +1,17 @@
+Promt GPT
+1. Halo
+Saya punya sebuah case yang harus di selesaikan berikut soalnya 
+tolong buatkan saya code dalam bentuk java untuk menyelesaikan case berikut ini
+
+Promt Gemini
+1. Halo
+Saya punya sebuah case yang harus di selesaikan berikut soalnya 
+tolong buatkan saya code dalam bentuk java untuk menyelesaikan case berikut ini
+2. Dan berikut adalah gambar pendukung soal
+3. Kita coba Run
+4. buatkanukan maksud saya tolong berikan saya step saya untuk compile programnya nya dengan itu saya bisa tau outpunya
+5. Apakah code ini sudah sesuai?Dan bisa di Run?
+6. namun disini terjadi erroe akibat penambahan Package driver nya, Bagaimana mengatasinya?
+7. Tidak dapat di compile, bagaimana cara agar bisa di compile?
+8.Ok sudah benar namun masih ada eror  pada bagian driver nya Tolong berikan pernjelasan agar saya mengerti dan bagaimana memperbaikinya?
+9.masih sama saya eror bagian driver

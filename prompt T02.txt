@@ -1,0 +1,12 @@
+Promt Gemini
+1. Nah aku ingin mengerjakan Case 2 dari kuis PBO kamu tolong analisis code berikut dan berikan keluaran nya dalam bahasa java berikut adalah case nya 
+2. untuk penyusunannya juga nama siswi dan  siswa begitu juga bergantian termasuk bagian dari polanya
+3.buat nama class nya menjadi Driver 2 dan bentuk kumplan file nya akan ssseperti ini tolong sesuaikan juga
+4. jelaskan kepada saya arti dari inputan perempuan??
+5. oke saya mengerti ini akan menghitung inputan dengan pola yang di tentukan yang perempuan saja atau yang laki laki saja benar?
+6. saya akan coba compile
+7. lanjut compile
+
+
+
+
