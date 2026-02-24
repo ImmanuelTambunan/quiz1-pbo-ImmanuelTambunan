@@ -19,7 +19,7 @@ Contoh inputan
 4. Ada
 5. 5
 Output
-Sukses Laundry
+Sukses Laundry.
 ""
 
 
