@@ -6,6 +6,7 @@ Promt Gemini
 5. oke saya mengerti ini akan menghitung inputan dengan pola yang di tentukan yang perempuan saja atau yang laki laki saja benar?
 6. saya akan coba compile
 7. lanjut compile
+;
 
 
 
