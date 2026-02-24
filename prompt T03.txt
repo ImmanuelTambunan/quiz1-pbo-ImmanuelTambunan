@@ -20,5 +20,6 @@ Contoh inputan
 5. 5
 Output
 Sukses Laundry
+""
 
 
